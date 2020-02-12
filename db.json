@@ -1,7 +1,12 @@
 
 {
-	"vMax": 25,
-	"vI": 27,
-	"vMoy": 23,
-	"batterie": 55
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
