@@ -1,12 +1,16 @@
 
 {
-  "posts": [
+  "speed": [
     {
       "id": 1,
-      "title": "hello"
+      "max": "25.1"
+    }
+    {
+      "id": 2,
+      "real": "23.1"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "batterie": {
+    "level": "55.5"
   }
 }
