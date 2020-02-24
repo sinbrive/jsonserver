@@ -4,7 +4,7 @@
 		"max": "25.1"
 	}, {
 		"id": 2,
-		"real": "15 +Math.random() * (30 - 15)";
+		"real": "15 +Math.random() * (30 - 15);"
 }
 	}],
 	"battery": {
