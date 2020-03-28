@@ -1,12 +1,5 @@
 {
-	"speed": [{
-		"id": 1,
-		"max": "25.1"
-	}, {
-		"id": 2,
-		"real": "23.9"
-	}],
-	"battery": {
-		"level": "55.5"
-	}
+	"vitesseMax":"25.1",
+	"vitesseMoy":"25.1"
+	"Batterie":"25.1"
 }
