@@ -1,8 +1,6 @@
 # jsonserver
 
-http://my-json-server.typicode.com/sinbrive/jsonserver/speed
-
-http://my-json-server.typicode.com/sinbrive/jsonserver/battery
+http://my-json-server.typicode.com/sinbrive/jsonserver/karting
 
 
 Reference : https://my-json-server.typicode.com/
