@@ -1,5 +1,7 @@
 {
-	"vitesseMax":"39.78",
-	"vitesseMoy":"30.12",
-	"Batterie":"56"
+	"karting": {
+		"vitesseMax":"39.78",
+		"vitesseMoy":"30.12",
+		"Batterie":"56"
+	}
 }
