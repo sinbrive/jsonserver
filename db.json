@@ -6,11 +6,11 @@
 		}, 
 		{
 		"id": 2,
-		"vitesseMoy": "35.5"
+		"vitesseMoy": "25.5"
 		},
 	   	{
 		"id": 3,
-		"nivBatterie": "50.9"
+		"nivBatterie": "29"
 		}
 	]
 }
